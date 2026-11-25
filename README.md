@@ -109,4 +109,4 @@ At normal load, the AI groups most work on N5, the fastest and most energy-effic
 **Note:** Energy figures are *model-based estimates* (linear idle-to-max power model), not hardware measurements. The whole system is a simulation, not a real city deployment.
 =======
 # edge-management
->>>>>>> e67d8f5442c4499e4ce9744d796478f480dc707a
+
